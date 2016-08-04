@@ -1,0 +1,12 @@
+{
+"variants": {
+	"facing=north,type=base":     { "model": "cm:laptop_base" },
+	"facing=south,type=base":    { "model": "cm:laptop_base", "y": 180 },
+	"facing=east,type=base":      { "model": "cm:laptop_base", "y": 90 },
+	"facing=west,type=base":      { "model": "cm:laptop_base", "y": 270 },
+	"facing=north,type=screen":  { "model": "cm:laptop_screen" },
+	"facing=south,type=screen": {  "model": "cm:laptop_screen", "y": 180 },
+	"facing=east,type=screen":   { "model": "cm:laptop_screen", "y": 90 },
+	"facing=west,type=screen":   { "model": "cm:laptop_screen", "y": 270 }
+	}
+}
